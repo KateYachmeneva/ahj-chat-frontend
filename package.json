@@ -48,7 +48,8 @@
     "webpack-merge": "^5.7.3"
   },
   "dependencies": {
-    "core-js": "^3.10.2"
+    "core-js": "^3.10.2",
+    "cors": "^2.8.5"
   },
   "bugs": {
     "url": "https://github.com/KateYachmeneva/ahj-chat-frontend/issues"

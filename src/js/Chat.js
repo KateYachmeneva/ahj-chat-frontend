@@ -123,11 +123,11 @@ export default class Chat {
   }
 
   async onEnterChatHandler(newUser) {
-    console.log(newUser);
     const response = await this.api.create(newUser);
+
     if (response.status === 'ok') {
-      this.modalWithForm.hideHint();
-      this.modalWithForm.close();
+      this.modalForm.hideHint();
+      this.modalForm.close();
       this.connectButton.classList.add('hidden');
       this.user = response.user;
       this.inputElement.disabled = false;
