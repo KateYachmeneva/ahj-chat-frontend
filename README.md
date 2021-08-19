@@ -1,4 +1,5 @@
 
 ### Badge
-[![Build status](https://ci.appveyor.com/api/projects/status/n6y4856svl139362?svg=true)](https://ci.appveyor.com/project/KateYachmeneva/ahj-forms)
+[![Build status](https://ci.appveyor.com/api/projects/status/hx6jeh4p91qbdudu?svg=true)](https://ci.appveyor.com/project/KateYachmeneva/ahj-chat-frontend)
+
 
